@@ -50,7 +50,7 @@ export default function Portfolio() {
     <main className={styles.main}>
         <div className={styles.center}>
             <div className={styles.welcome}> 
-                <h1>Hi there, I&pos;m Cole</h1>
+                <h1>Hi there, I&apos;m Cole</h1>
                 <p>
                 A passionate developer who loves to make blazingly fast software and everything lower level.
                 I mainly program in Rust but I also have experience with Java, Python and JavaScript/TypeScript. 
@@ -111,8 +111,8 @@ export default function Portfolio() {
                     <b>WARNING VERY ACTIVE DEVLOPEMNT, INFORMATION MAY BE OUT DATED.</b>
                     <p>
                     streaming-rs is a full streaming service written in Rust. There 2 main parts, the server and the client.
-                    Let&pos;s start with the server, the server as of September 14th, 2023 is very simple, the client sends a song Spotify ID, and the server sends the file back.
-                    If the server doesn&pos;t have the file locally it downloads the song using <a href="https://github.com/spotDL/spotify-downloader">spotDL</a> and sends the file once it is done. Now the client,
+                    Let&apos;s start with the server, the server as of September 14th, 2023 is very simple, the client sends a song Spotify ID, and the server sends the file back.
+                    If the server doesn&apos;t have the file locally it downloads the song using <a href="https://github.com/spotDL/spotify-downloader">spotDL</a> and sends the file once it is done. Now the client,
                     there is a library provided by streaming-rs which is used to make clients for the server. There are currently 2 clients, a command line and a TUI, 
                     with a planned GUI. The client library currently has the following features, a library, downloading songs, searching songs, playlist and built-in shuffle.
                     </p>
