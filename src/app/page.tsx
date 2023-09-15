@@ -88,12 +88,12 @@ export default function Portfolio() {
                     keyboard-rs is an open-source keyboard firmware written in Rust. 
                     It allows users to not have to worry about cryptic compiler errors and just focus on their keymap.
                     Currently keyboard-rs only works with a keyboard running off of a rp2040 
-                    but with plans on moving from <a href="https://crates.io/crates/rp2040-hal">rp2040-hal</a> to 
-                    <a href="https://crates.io/crates/embedded-hal">embedded-hal</a>, this would allow for any chip that has an embedded-hal implementation
+                    but with plans on moving from <a href="https://crates.io/crates/rp2040-hal">rp2040-hal</a> to
+                    <a href="https://crates.io/crates/embedded-hal"> embedded-hal</a>, this would allow for any chip that has an embedded-hal implementation
                     including the rp2040. The only other additional feature that is implemented is rotary encoder support.
                     <br/>
                     <br/>
-                    The image on the right is of <a href="https://github.com/Colepng/late-night-engineering">late night engineering</a>,
+                    The image on the left is of <a href="https://github.com/Colepng/late-night-engineering">late night engineering</a>,
                     a keyboard I designed for my computer engineering class.
                     </p>
                 </div>
