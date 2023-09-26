@@ -55,8 +55,6 @@ export default function Portfolio() {
                 A passionate developer who loves to make blazingly fast software and everything lower level.
                 I mainly program in Rust but I also have experience with Java, Python and JavaScript/TypeScript. 
                 You can check out my <a href="https://github.com/Colepng">GitHub</a> here and if you want to read about my random programming adventures check out my <a href="https://blog.colepng.com">blog</a>.
-                <br/>
-                (I use Arch btw)
                 </p>
                 <div className={styles.links}>
                 </div>
